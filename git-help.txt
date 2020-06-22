@@ -1,0 +1,5 @@
+man git
+man gittutorial
+git help config
+/* porcelain, plumbing */
+
