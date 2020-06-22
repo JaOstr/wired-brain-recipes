@@ -2,4 +2,8 @@ man git
 man gittutorial
 git help config
 /* porcelain, plumbing */
+git help
+git help -a
+git help -g
+git help workflows  // == man gitworkflows
 
