@@ -1,0 +1,4 @@
+git reset --soft
+git reset --mixed # default
+git reset --hard  # remove, careful!
+
