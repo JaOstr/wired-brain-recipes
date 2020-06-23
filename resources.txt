@@ -2,4 +2,5 @@ https://xkcd.com/1296/
 https://chris.beams.io/posts/git-commit/
 https://git-scm.com/book/en/v2
 https://git-school.github.io/visualizing-git/
+https://dangitgit.com/en
 
